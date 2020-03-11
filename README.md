@@ -12,16 +12,27 @@ PB0  -> DB0
 PB1  -> DB1
 
 PB2  -> DB2
+
 PB3  -> DB3
+
 PB4  -> DB4
+
 PB5  -> DB5
+
 PB6  -> DB6
+
 PB7  -> DB7
+
 PB8  -> CS2
+
 PB9  -> CS1
+
 PB10 -> /RES
+
 PB11 -> R/W
+
 PB12 -> D/I
+
 PB13 -> E
 
 Control pusbuttons are on PA6 and PA7.
