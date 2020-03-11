@@ -8,7 +8,9 @@ TODO: Add wiring diagram. Add music/sound capabilities.
 Wiring is as follows
 
 PB0  -> DB0
+
 PB1  -> DB1
+
 PB2  -> DB2
 PB3  -> DB3
 PB4  -> DB4
