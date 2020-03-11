@@ -3,7 +3,7 @@ A simple clone of Google's T-Rex Run game for the STM32F0 Discovery Development 
 
 A graphics library is included. The code can be easily modified to include your own sprites or even make your own games!
 
-TODO: Add wiring diagram.
+TODO: Add wiring diagram. Add music/sound capabilities.
 
 Wiring is as follows
 
