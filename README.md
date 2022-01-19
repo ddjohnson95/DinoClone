@@ -5,8 +5,6 @@ Display Documentation here: https://www.sparkfun.com/datasheets/LCD/GDM12864H.pd
 
 A graphics library is included. The code can be easily modified to include your own sprites or even make your own games!
 
-TODO: Add wiring diagram. Add music/sound capabilities.
-
 Wiring is as follows
 
 PB0  -> DB0
